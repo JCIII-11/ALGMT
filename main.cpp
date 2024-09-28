@@ -15,7 +15,7 @@ int main(int argc, char *args[])
     Sleep(750);
 
     //MAIN PAGE
-    printf("MATH TOOLS[Version STD 1.4.90]\n");
+    printf("ALGMT\n");
     printf("\n");
     while(z)
     {
